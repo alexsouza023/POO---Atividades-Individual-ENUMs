@@ -3,7 +3,7 @@ package com.enums.enums;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.enums.enums.UFs.Main.UF;
+
 
 @SpringBootApplication
 public class EnumsApplication {
